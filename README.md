@@ -17,7 +17,7 @@ Here you will find some of my projects made for study cases. Please, feel free t
 
 ---
 
- :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -29,10 +29,14 @@ Here you will find some of my projects made for study cases. Please, feel free t
 
 ---
 
-:pencil2: You can contact me:
+### :pencil2: You can contact me:
 <div id="badges" align="center>
+   <a href="https://t.me/Earldev">
+   <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+                        
   <a href="https://t.me/Earldev">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://t.me/Earldev">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
