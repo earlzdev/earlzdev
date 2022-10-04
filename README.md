@@ -31,10 +31,10 @@ Here you will find some of my projects made for study cases. Please, feel free t
 
 :pencil2: You can contact me:
 <div id="badges" align="center>
-  <a href="your-telergam-URL">
+  <a href="https://t.me/Earldev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-Gmail-URL">
+  <a href="esinilyadev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="your-Twitter-URL">
