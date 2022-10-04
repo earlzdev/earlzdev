@@ -31,7 +31,7 @@ Here you will find some of my projects made for study cases. Please, feel free t
 
 :pencil2: You can contact me:
 <div id="badges" align="center>
-  <a href="https://t.me/Earldev">
+  <a href="t.me/Earldev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="esinilyadev@gmail.com">
