@@ -31,7 +31,7 @@ Here you will find some of my projects made for study cases. Please, feel free t
 
 ---
 
-### :pencil2: You can contact me:
+### :pencil2: You can contact wuth me by:
 <div id="badges">                  
   <a href="https://t.me/Earldev">
      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
