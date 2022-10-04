@@ -34,7 +34,7 @@ Here you will find some of my projects made for study cases. Please, feel free t
   <a href="https://t.me/Earldev">
      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/Earldev">
+  <a href="mailto:esinilyadev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="your-Twitter-URL">
@@ -45,5 +45,3 @@ Here you will find some of my projects made for study cases. Please, feel free t
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
- <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
