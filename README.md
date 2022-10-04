@@ -32,7 +32,7 @@ Here you will find some of my projects made for study cases. Please, feel free t
 ### :pencil2: You can contact me:
 <div id="badges" align="center>                  
   <a href="https://t.me/Earldev">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://t.me/Earldev">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -46,3 +46,4 @@ Here you will find some of my projects made for study cases. Please, feel free t
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+ <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
