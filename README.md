@@ -15,17 +15,22 @@ Welcome to my GitHub page!
 ```Kotlin 
 class EarlDev : Developer {
 
-    override val specification = "Android, Kotlin MultiPlatform"
-
-    override val languages = listOf("Kotlin", "Java", "Swift")
-
     init {
         val name = "Ilya"
         val age = "23 years"
-        val education = "Ufa State Petroleum University"
+        val education = "Ufa State Petroleum Technical University"
     }
-
-    links {
+    
+    override val specification = "Android development"
+    
+    override val languages = listOf("Kotlin", "Java")
+    
+    val fondOf = CurrentlyLearning {
+        val platform = "Kotlin Multiplatform, IOS development"
+        val languages = "Swift"
+    }
+    
+    val communication = Links {
         val telegram = "@earldev"
     }
 }
