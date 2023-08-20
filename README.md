@@ -2,25 +2,20 @@
 </div>
 
 ```Kotlin 
-class EarlDev : Developer {
+class EarlDev: Developer {
 
     init {
         val name = "Ilya"
-        val age = "23 years"
+        val age = "24 years"
         val education = "Ufa State Petroleum Technical University"
     }
     
     override val specification = "Android development"
     
-    override val languages = listOf("Kotlin", "Java")
-    
-    val fondOf = CurrentlyLearning {
-        val platform = "Kotlin Multiplatform, IOS development"
-        val languages = "Swift"
-    }
-    
+    override val languages = listOf("Kotlin", "Java", "Swift", "C++")
+        
     val communication = Links {
-        val telegram = "@earldev"
+        val telegram = "t.me/earldev"
     }
 }
 ```
