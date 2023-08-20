@@ -15,7 +15,7 @@ class EarlDev: Developer {
     override val languages = listOf("Kotlin", "Java", "Swift", "C++")
         
     val communication = Links {
-        val telegram = "t.me/earldev"
+        telegram = "t.me/earldev"
     }
 }
 ```
