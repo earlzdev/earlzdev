@@ -12,7 +12,7 @@ class EarlDev: Developer {
     
     override val specification = "Android development"
     
-    override val languages = listOf("Kotlin", "Java", "Swift", "C++")
+    override val languages = listOf("Kotlin", "Java", "C++")
         
     val communication = Links {
         telegram = "t.me/earldev"
