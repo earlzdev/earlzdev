@@ -14,8 +14,9 @@ class EarlDev: Developer {
     
     override val languages = listOf("Kotlin", "Java", "C++")
         
-    val communication = Links {
+    val about = Links {
         telegram = "t.me/earldev"
+        leetcode = "https://leetcode.com/Earldev/"
     }
 }
 ```
